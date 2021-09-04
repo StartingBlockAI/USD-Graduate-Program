@@ -8,7 +8,7 @@ As a mechanical engineer by trade, many times I look to the interwebs to see wha
 ## 1. Probability and Statistics
 ## 2. Introduction to Artificial Intelligence
 ## 2. Machine Learning: Fundamentals and Applications
-## 3. Neuural Netowks and Deep Learning
+## 3. Neural Netowks and Deep Learning
 ## 4. Natural Language Processing (NLP)
 ## 5. Introduction to Computer Vision
 ## 6. Data Analytics and Internet of Things (IoT)
