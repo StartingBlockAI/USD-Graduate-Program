@@ -5,3 +5,5 @@ I have completed the first two semesters at USD. I will upload projects complete
 
 #Table of Contents
 1. [Statistics] (#Statistics)
+
+## 1. Statistics
